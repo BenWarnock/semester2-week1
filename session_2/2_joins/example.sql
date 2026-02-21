@@ -9,3 +9,5 @@
 
 -- Use this file to test things out, follow allow with classwork, etc.
 
+SELECT role from users
+ORDER BY username;
