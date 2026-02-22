@@ -1,3 +1,8 @@
+/* Your name: Ben Warnock
+Your student ID: 201852300
+You state that the code submitted is wholly written by yourself. 
+Date: 22/02/2026 */
+
 -- List all students along with the names of the courses they are enrolled in.
 -- Expected Columns:
 -- StudentId, FirstName, LastName, CourseName

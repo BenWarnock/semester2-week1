@@ -1,3 +1,8 @@
+/* Your name: Ben Warnock
+Your student ID: 201852300
+You state that the code submitted is wholly written by yourself. 
+Date: 22/02/2026 */
+
 -- For each department, calculate the number of enrolments in its courses.
 -- Expected Columns:
 -- DepartmentName, TotalEnrolments
