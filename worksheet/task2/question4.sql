@@ -4,3 +4,7 @@
 
 .mode columns
 .headers on
+
+SELECT Student.StudentId, FirstName, LastName, CourseName
+FROM Student JOIN Enrolment ON Student.StudentId = Enrolment.StudentId
+JOIN Course ON Enrolment.CourseID = Course.CourseID;
